@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+#Hello world!
 
 from django.db import models
 
@@ -39,5 +40,9 @@ class Books(models.Model):
     def __unicode__(self):
         return self.Title
     
+<<<<<<< HEAD
 #Goodbye!
+=======
+
+>>>>>>> C4
     
