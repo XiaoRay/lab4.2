@@ -1,9 +1,9 @@
 from django.test import TestCase
-
+#Hello world!
 # Create your tests here.
-<<<<<<< HEAD
+
 
 #Goodbye!
-=======
-#Hello world!
->>>>>>> C4
+
+
+

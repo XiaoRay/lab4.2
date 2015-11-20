@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-#Goodbye!
-=======
 #Hello world!
->>>>>>> C4
+
+#Goodbye!
+
+
+
